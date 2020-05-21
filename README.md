@@ -1,2 +1,2 @@
 # DesafiosCodeWar
- Desafios da realizados da plataforma Codewars
+ Desafios realizados da plataforma Codewars
